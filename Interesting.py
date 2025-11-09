@@ -3,6 +3,8 @@ import random
 import threading
 import time
 
+#这是我写的一个代码
+
 def dow():
     window = tk.Tk()
     width, height = window.winfo_screenwidth(), window.winfo_screenheight()
